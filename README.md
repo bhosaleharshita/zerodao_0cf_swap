@@ -1,3 +1,3 @@
-# zerodao_0cf_swap
+# zerodao_ZeroSwap
 Submission for Grants 10 Hackathon ZeroDAO Bounty.
-0confirmation and 0cf swap explained!
+I have created a infographic explaining 0confirmation and Zeroswap.
